@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../00-springboot-generator/00-springboot-generator.iml" filepath="$PROJECT_DIR$/../00-springboot-generator/00-springboot-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-springseesion-web/01-springseesion-web.iml" filepath="$PROJECT_DIR$/01-springseesion-web/01-springseesion-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02-springboot-first/02-springboot-first.iml" filepath="$PROJECT_DIR$/../02-springboot-first/02-springboot-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-springboot-web/03-springboot-web.iml" filepath="$PROJECT_DIR$/../03-springboot-web/03-springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-springboot-dubbo-consumer/04-springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/../04-springboot-dubbo-consumer/04-springboot-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-springboot-dubbo-interface/04-springboot-dubbo-interface.iml" filepath="$PROJECT_DIR$/../04-springboot-dubbo-interface/04-springboot-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-springboot-dubbo-provider/04-springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/../04-springboot-dubbo-provider/04-springboot-dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-springboot-java/05-springboot-java.iml" filepath="$PROJECT_DIR$/../05-springboot-java/05-springboot-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06-springboot-war/06-springboot-war.iml" filepath="$PROJECT_DIR$/../06-springboot-war/06-springboot-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-springboot-session/07-springboot-session.iml" filepath="$PROJECT_DIR$/../07-springboot-session/07-springboot-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-springboot-session02/07-springboot-session02.iml" filepath="$PROJECT_DIR$/../07-springboot-session02/07-springboot-session02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08-springboot-thymeleaf/08-springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/../08-springboot-thymeleaf/08-springboot-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>
